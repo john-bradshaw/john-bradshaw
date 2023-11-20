@@ -10,9 +10,9 @@ I'm a postdoc in the Coley Research Group at MIT, previously I was a PhD student
 
 
 ## 🧺 Misc
-[ML for Molecules](https://github.com/john-bradshaw/ml-in-bioinformatics-summer-school-2020) is a notebook I wrote for a tutorial about ML for molecules.
-[`GNN`](https://github.com/john-bradshaw/GNN) is a library for graph neural networks in PyTorch.   
-[`kriggie`](https://github.com/john-bradshaw/kriggie) is a playground for exploring Gaussian processes.
+[ML for Molecules](https://github.com/john-bradshaw/ml-in-bioinformatics-summer-school-2020) is a notebook I wrote for a tutorial about ML for molecules.    
+[`GNN`](https://github.com/john-bradshaw/GNN) is a library for graph neural networks in PyTorch.      
+[`kriggie`](https://github.com/john-bradshaw/kriggie) is a playground for exploring Gaussian processes.    
 
 
 (Note some of this work has been done in collaboration or been heavily inspired by work elsewhere, which I have tried to highlight on the repos' READMEs).
