@@ -1,6 +1,6 @@
 # Hi I'm John! 👋
 
-Most recently I was a postdoc in the Coley Research Group at MIT. Before that, I was a PhD student in Machine Learning at the University of Cambridge/Max Planck Institute for Intelligent Systems. On my GitHub you can find the code for my papers as well as my implementations for some general ML algorithms. Some highlights include:
+Most recently I was a postdoc in the Coley Research Group at MIT. Before that, I was a PhD student in the Machine Learning Group (Dept. of Engineering) at the University of Cambridge and also affiliated with the Max Planck Institute for Intelligent Systems. On my GitHub you can find the code for my papers as well as my implementations for some general ML algorithms. Some highlights include:
 
 ## 📄 Code for Papers
 [Synthesis DAGs](https://github.com/john-bradshaw/synthesis-dags) is code for our paper ["Barking up the right tree: an approach to search over molecule synthesis DAGs"](https://arxiv.org/abs/2012.11522).   
